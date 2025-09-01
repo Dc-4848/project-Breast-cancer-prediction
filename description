@@ -1,0 +1,41 @@
+🧠 Breast Cancer Prediction using Machine Learning
+
+This project demonstrates a machine learning pipeline for predicting breast cancer (malignant or benign) using the Breast Cancer Wisconsin (Diagnostic) Dataset. The goal is to compare multiple ML models and evaluate their performance in classifying tumors based on various medical features.
+
+🚀 Features
+
+📊 Dataset: Built-in Scikit-learn Breast Cancer Dataset (30 numeric features)
+
+✂️ Preprocessing: Standardization using StandardScaler
+
+🔍 Models Used:
+
+Logistic Regression
+
+Random Forest Classifier
+
+Support Vector Machine (SVM)
+
+📈 Evaluation Metrics:
+
+Accuracy Score
+
+Classification Report (Precision, Recall, F1-Score)
+
+Confusion Matrix Visualization
+
+🧪 Model Testing:
+
+Predictions on test data
+
+Prediction on a new random input sample
+
+📦 Tech Stack
+
+Python
+
+Scikit-learn
+
+Pandas & NumPy
+
+Matplotlib & Seaborn
